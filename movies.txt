@@ -1,0 +1,11 @@
+titanic
+ironman
+thor
+aquaman
+flash
+batman
+superman
+spiderman
+strange
+hulk
+deadpool
